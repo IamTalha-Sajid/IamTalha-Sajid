@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IamTalha-Sajid
-- 👀 I’m interested in Web Designing
-- 🌱 I’m currently Doing MCS FYP
-- 💞️ I’m looking to collaborate on on my FYP
-- 📫 iamtalha.ch69@gmail.com
+- 👋 Hi, I’m @IamTalha-Sajid.
+- 👀 I’m interested in Blockchain.
+- 🌱 I’m currently Doing Internship in Blockchain.
+- 💞️ I’m looking to collaborate on NFTs Development.
+- 📫 talha.sajid@amcoitsystems.com
 
 <!---
 IamTalha-Sajid/IamTalha-Sajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
