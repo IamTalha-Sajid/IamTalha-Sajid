@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain.
 - 🌱 I’m currently Doing Job as a Blockchain Developer.
 - 💞️ I’m looking to collaborate on NFTs Development.
-- 📫 talha.sajid@amcoitsystems.com
+- 📫 iamtalha.sajid@gmail.com
 
 <!---
 IamTalha-Sajid/IamTalha-Sajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
