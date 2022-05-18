@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IamTalha-Sajid.
 - 👀 I’m interested in Blockchain.
-- 🌱 I’m currently Doing Internship in Blockchain.
+- 🌱 I’m currently Doing Job as a Blockchain Developer.
 - 💞️ I’m looking to collaborate on NFTs Development.
 - 📫 talha.sajid@amcoitsystems.com
 
