@@ -5,4 +5,4 @@
 ✍🏻 In my free time, I read about what's new in market and watch Foorball and Cricket.
 💬 Feel free to reach out to me for any type of Blockchain Development OR Smart Contract work in Solidity.
 📨 You can shoot me an email OR can invite me on slack at iamtalha.sajid@gmail.com! I'll try to respond as soon as I can.
-🌐 You can visit my portfolio Website at www.talhasajid.dev
+🌐 You can visit my portfolio Website at www.talhasajid.dev 
