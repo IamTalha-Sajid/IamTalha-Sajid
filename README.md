@@ -14,14 +14,15 @@
 
 Here are a few things I've picked up along my learning journey.
 
-![Ethereum]()
 ![Blockchain]()
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Solidity]()
 ![Smart Contract]()
 ![Web3JS]()
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![]() ![]() ![]()
-
+![NextJS]()
+![NodeJS]()
 
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white) ![]() ![]()
