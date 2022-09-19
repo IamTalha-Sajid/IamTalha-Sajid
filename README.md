@@ -14,11 +14,10 @@
 
 Here are a few things I've picked up along my learning journey.
 
-![Blockchain]()
+![Blockchain](https://img.shields.io/badge/-blockchain-blue?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
 ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
-![Solidity]()
-![Smart Contract]()
-![Web3JS]()
+![Solidity](https://img.shields.io/badge/-SOLIDITY-grey?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3JS](https://img.shields.io/badge/-web3JS-orange?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
@@ -29,9 +28,8 @@ Here are a few things I've picked up along my learning journey.
 ![ChaiJS](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NextJs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=NextJS&logoColor=black)
-![NextJS]()
-![NodeJS]()
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=for-the-badge&logo=nodedotjs&logoColor=black)
 ![]() ![]() ![]()
 
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
