@@ -29,7 +29,7 @@ Here are a few things I've picked up along my learning journey.
 ![ChaiJS](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NextJs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=green)
+![NextJs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=NextJS&logoColor=black)
 ![NextJS]()
 ![NodeJS]()
 ![]() ![]() ![]()
