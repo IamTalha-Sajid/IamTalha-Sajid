@@ -20,6 +20,14 @@ Here are a few things I've picked up along my learning journey.
 ![Smart Contract]()
 ![Web3JS]()
 
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
+
+![MochaJS](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+![ChaiJS](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NextJS]()
 ![NodeJS]()
@@ -55,9 +63,7 @@ Here are a few things I've picked up along my learning journey.
 
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamtalhasajid/) 
-|| 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamtalha.sajid@gmail.com) 
-|| 
 [![Skype](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/mjKWWdSnoV8c) 
 
  or give some ♥ on [mail](mailto:iamtalha.sajid@gmail.com) .
