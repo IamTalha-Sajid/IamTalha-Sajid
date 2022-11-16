@@ -9,7 +9,6 @@
 - 📨 You can shoot me an email at iamtalha.sajid@gmail.com! I'll try to respond as soon as I can.
 - 🌐 You can visit my portfolio Website at www.talhasajid.dev
 
-
 ## ⚡ Tech Stack
 
 Here are a few things I've picked up along my learning journey.
@@ -56,6 +55,10 @@ Here are a few things I've picked up along my learning journey.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+
+## Talha Sajid's Github Stats
+<span> ![Talha's github stats](https://github-readme-stats.vercel.app/api?username=IamTalha-Sajid&theme=tokyonight&show_icons=true&count_private=true) </span>
+<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamTalha-Sajid&theme=tokyonight)</span>
 
 
 ## 📫 Get in touch
