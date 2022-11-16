@@ -15,7 +15,6 @@
 Here are a few things I've picked up along my learning journey.
 
 ![Blockchain](https://img.shields.io/badge/-blockchain-blue?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
-![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 ![Solidity](https://img.shields.io/badge/-SOLIDITY-grey?style=for-the-badge&logo=solidity&logoColor=white)
 ![Web3JS](https://img.shields.io/badge/-web3JS-orange?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
