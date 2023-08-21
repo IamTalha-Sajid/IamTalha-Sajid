@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">  Hi, I am **Talha Sajid** ...
 
-- 👨🏻‍💻 I am a Blockchain Engineer working on Smart Contract Development and Integration for more than 1.5 Year.
+- 👨🏻‍💻 I am a Blockchain Engineer working on Smart Contract Development and Integration for more than 2 Year.
 - 💡 I like to explore new technologies, develop software solutions and love to work on Blockchian and Web3 development.
 - 🎓 I've a Master Degree in Computer Science from Bahauddin Zakariya University Multan.
 - 🌱 I'm on track to become a Full Stack Blockchian Engineer. Currently learning NodeJs.
