@@ -3,7 +3,7 @@
 - 👨🏻‍💻 I'm a Blockchain Engineer with over 2.5 years of experience in Smart Contract Development and Integration.
 - 💡 Passionate about exploring new technologies, building software solutions, and specializing in Blockchain and Web3 development.
 - 🎓 I hold a Master's Degree in Computer Science from Bahauddin Zakariya University Multan.
-- 🌱 Currently, I'm on the path to becoming a Full Stack Blockchain Engineer. Currently, I'm honing my NodeJs skills through coding challenges.
+- 🌱 Currently, I'm on the path to becoming a Full Stack Blockchain Engineer. Currently, I'm honing my NodeJs skills via coding challenges.
 - ✍🏻 In my leisure time, I stay updated with the latest trends in technology and enjoy watching Football and Cricket.
 - 💬 Feel free to reach out to me for any Blockchain Development or Smart Contract work in Solidity.
 - 📨 You can contact me via email at iamtalha.sajid@gmail.com! I'll get back to you as soon as possible.
