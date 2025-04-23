@@ -1,8 +1,8 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Talha Sajid! 👋
 
-- 👨🏻‍💻 I'm a Senior Blockchain and Web3 Engineer with over 3+ years of experience in Smart Contract Development and Integration.
+- 👨🏻‍💻 I'm a Senior Blockchain and Web3 Engineer with over 4+ years of experience in building Blockchain Solutions.
 - 💡 Passionate about exploring new technologies and specializing in Blockchain and Web3 development.
-- 🎓 I hold a Master's Degree in Computer Science from Bahauddin Zakariya University Multan.
+- 🎓 I hold a Master's Degree in Computer Science from Bahauddin Zakariya University, Multan.
 - 🌱 Currently, I'm on the path to becoming a RUST and Solana Engineer. Currently, I'm honing my Rust skills via various courses.
 - ✍🏻 In my leisure time, I stay updated with the latest technology trends and enjoy watching Football and Cricket.
 - 💬 Feel free to reach out to me for any Blockchain Development or Smart Contract work in Solidity and Rust.
