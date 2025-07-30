@@ -20,9 +20,9 @@ Here are a few things I've picked up along my learning journey.
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=Binance&logoColor=white)
-![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=Polygon&logoColor=white)
-![Arbitrum](https://img.shields.io/badge/Arbitrum-2775CA?style=for-the-badge&logo=Arbitrum&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-2775CA?style=for-the-badge&logo=arbitrum&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=Solana&logoColor=black)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
