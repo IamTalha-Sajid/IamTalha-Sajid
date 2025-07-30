@@ -1,13 +1,14 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Talha Sajid! 👋
 
-- 👨🏻‍💻 I'm a Senior Blockchain and Web3 Engineer with over 4+ years of experience in building Blockchain Solutions.
-- 💡 Passionate about exploring new technologies and specializing in Blockchain and Web3 development.
-- 🎓 I hold a Master's Degree in Computer Science from Bahauddin Zakariya University, Multan.
-- 🌱 Currently, I'm on the path to becoming a RUST and Solana Engineer. Currently, I'm honing my Rust skills via various courses.
-- ✍🏻 In my leisure time, I stay updated with the latest technology trends and enjoy watching Football and Cricket.
-- 💬 Feel free to reach out to me for any Blockchain Development or Smart Contract work in Solidity and Rust.
-- 📨 You can contact me via email at iamtalha.sajid@gmail.com! I'll get back to you as soon as possible.
-- 🌐 Explore my portfolio at www.talhasajid.dev
+- 👨🏻‍💻 I'm a **Senior Blockchain & Full-Stack Web3 Engineer** with over **4+ years of experience** building decentralized applications and scalable web platforms.
+- 🔗 I specialize in **Blockchain and Web3 development**, working with **Solidity**, **Rust**, and **smart contract architectures**.
+- 🧑‍💻 On the Web2 side, I build full-stack applications using **MERN**, **Next**, **Deno** and **Nest**, with a strong focus on **TypeScript** and **Web3 integrations**.
+- 🌱 Currently diving deep into **Rust and Solana**, and honing my skills through hands-on projects and learning.
+- 🎓 I hold a **Master's in Computer Science** from Bahauddin Zakariya University, Multan.
+- ✍🏻 Outside of work, I stay updated with the latest tech trends and enjoy watching football.
+- 💬 Open to collaboration on **Blockchain DApps**, **Web3 integrations**, or **smart contract development**.
+- 🌐 Check out my portfolio: [www.talhasajid.dev](http://www.talhasajid.dev)
+- 📩 Reach out at **iamtalha.sajid@gmail.com** — happy to connect!
 
 ## ⚡ Tech Stack
 
@@ -18,9 +19,11 @@ Here are a few things I've picked up along my learning journey.
 ![Web3JS](https://img.shields.io/badge/-web3JS-orange?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
-![Chainlink](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
-![Openzeppalin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
+![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=Binance&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=Polygon&logoColor=white)
+![Arbitrum](https://img.shields.io/badge/Arbitrum-2775CA?style=for-the-badge&logo=Arbitrum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-00FFA3?style=for-the-badge&logo=Solana&logoColor=black)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
