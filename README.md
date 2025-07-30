@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I'm a **Senior Blockchain & Full-Stack Web3 Engineer** with over **4+ years of experience** building decentralized applications and scalable web platforms.
 - 🔗 I specialize in **Blockchain and Web3 development**, working with **Solidity**, **Rust**, and **smart contract architectures**.
-- 🧑‍💻 In Web2, I build full-stack applications using **MERN**, **Next**, **Deno** and **Nest**, with a strong focus on **TypeScript** and **Web3 integrations**.
+- 🧑‍💻 In Web2, I build full-stack applications using **MERN**, **Next**, **Deno** and **Nest**, with focus on **TypeScript** and **Web3 integrations**.
 - 🌱 Currently diving deep into **Rust and Solana**, and honing my skills through hands-on projects and learning.
 - 🎓 I hold a **Master's in Computer Science** from Bahauddin Zakariya University, Multan.
 - ✍🏻 Outside of work, I stay updated with the latest tech trends and enjoy watching football.
