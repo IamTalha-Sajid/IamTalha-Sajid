@@ -7,7 +7,7 @@
 - 🎓 I hold a **Master's in Computer Science** from Bahauddin Zakariya University, Multan.
 - ✍🏻 Outside of work, I stay updated with the latest tech trends and enjoy watching football.
 - 💬 Open to collaboration on **Blockchain DApps**, **Web3 integrations**, or **smart contract development**.
-- 🌐 Check out my portfolio: [www.talhasajid.dev](https://talha.is-a.dev/)
+- 🌐 Check out my portfolio: [www.talha.is-a.dev/](https://talha.is-a.dev/)
 - 📩 Reach out at **iamtalha.sajid@gmail.com** — happy to connect!
 
 ## ⚡ Tech Stack
