@@ -59,17 +59,9 @@ Here are a few things I've picked up along my learning journey.
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-
-## Talha Sajid's Github Stats
-<span> ![Talha's github stats](https://github-readme-stats.vercel.app/api?username=IamTalha-Sajid&theme=tokyonight&show_icons=true&count_private=true) </span>
-<span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamTalha-Sajid&theme=tokyonight)</span>
-
-
 ## 📫 Get in touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamtalhasajid/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamtalha.sajid@gmail.com)
-[![Skype](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/mjKWWdSnoV8c)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/iamtalha.sajid)
 
  or give some ♥ on [mail](mailto:iamtalha.sajid@gmail.com) .
-
