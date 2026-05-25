@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Talha Sajid! 👋
 
-- 👨🏻‍💻 I'm a **Lead Full-Stack & Web3 Engineer** with over **5+ years of experience** building decentralized applications and intelligent systems.
+- 👨🏻‍💻 I'm a **Lead Software Engineer** with over **5+ years of experience** building decentralized applications and intelligent systems.
 - 🧑‍💻 In Web2, I build full-stack applications using **MERN**, **Next**, **Deno** and **Nest**, with a heavy focus on **TypeScript** and **Web3 integrations**.
 - 🤖 I specialize in **AI integrations and automation**, architecting intelligent agentic workflows using **n8n** and custom LLM pipelines.
 - 🌱 Currently diving deep into **Rust and Solana**, and honing my skills through hands-on projects and learning.
