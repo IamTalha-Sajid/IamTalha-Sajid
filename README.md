@@ -1,12 +1,12 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Talha Sajid! 👋
 
-- 👨🏻‍💻 I'm a **Senior Blockchain & Full-Stack Web3 Engineer** with over **4+ years of experience** building decentralized applications.
-- 🔗 I specialize in **Blockchain and Web3 development**, working with **Solidity**, **Rust**, and **smart contract architectures**.
-- 🧑‍💻 In Web2, I build full-stack applications using **MERN**, **Next**, **Deno** and **Nest**, with focus on **TypeScript** and **Web3 integrations**.
+- 👨🏻‍💻 I'm a **Lead Full-Stack & Web3 Engineer** with over **5+ years of experience** building decentralized applications and intelligent systems.
+- 🧑‍💻 In Web2, I build full-stack applications using **MERN**, **Next**, **Deno** and **Nest**, with a heavy focus on **TypeScript** and **Web3 integrations**.
+- 🤖 I specialize in **AI integrations and automation**, architecting intelligent agentic workflows using **n8n** and custom LLM pipelines.
 - 🌱 Currently diving deep into **Rust and Solana**, and honing my skills through hands-on projects and learning.
 - 🎓 I hold a **Master's in Computer Science** from Bahauddin Zakariya University, Multan.
 - ✍🏻 Outside of work, I stay updated with the latest tech trends and enjoy watching football.
-- 💬 Open to collaboration on **Blockchain DApps**, **Web3 integrations**, or **smart contract development**.
+- 💬 Open to collaboration on **AI & Web3 Projects**.
 - 🌐 Check out my portfolio: [www.talha.is-a.dev](https://talha.is-a.dev/)
 - 📩 Reach out at **iamtalha.sajid@gmail.com** — happy to connect!
 
